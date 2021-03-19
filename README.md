@@ -1,2 +1,2 @@
-# US-States-Game-Python-and-tkinter-GUI-
+# US-States-Game-Pandas-and-Turtle
 User is asked to name as many US states as possible.
